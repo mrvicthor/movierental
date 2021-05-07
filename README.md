@@ -1,4 +1,4 @@
-# movierental
+# Movie Rental Database
 As technology continues to advance, there has never been a better time to automate business processes. 
 Traditionally, records of stocks and business transactions have been done manually with the aid of papers which in time has lead to a lot of paper work and more time to perform duties.
 A movie rental business owner has similar problems as outlined above and wants to reduce business turn-around-time as well as automating the business.
